@@ -8,7 +8,4 @@ from views import *
 
 admin.setup()
 api.setup()
-
-
-if __name__ == '__main__':
-    app.run()
+app.run()
